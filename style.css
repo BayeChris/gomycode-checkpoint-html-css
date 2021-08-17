@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.floter1{
+    float: right;
+}
+
+
+
+.parent1{
+    background-color: blue;
+}
+.parent2{
+    background-color: grey;
+}
+.parent3{
+    background-color: yellow;
+}
+
+
+
+.image1 {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image2{
+    display: inline-block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image3{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+}
+
+.media{
+    display: flex;
+    justify-content:space-evenly;
+
+}
